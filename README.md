@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="Bash" src="http://i.hizliresim.com/oOoBlb.png" width="200"/>
+    <img alt="Bash" src="https://image.ibb.co/f8VOzH/Bash.png" width="200"/>
   </a>
 </p>
 
